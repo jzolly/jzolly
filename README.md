@@ -1,6 +1,7 @@
 ![Imgur](https://i.imgur.com/GlMG4FY.png)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=${jzolly}&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jzolly.jzolly&left_color=#4c6351&right_color=#d4d281)
+
 
 Hey,
 Welcome to my GitHub. I am a new Software Engineer with a lifetime practice in being curious!  I am a maker, and love creating new things. Software Engineering allows me to explore skills long built working and studying in fine arts as well as math education.  I am a fullstack engineer with passions and skills in front end development. Feel free to explore my projects and and get a taste for how I approach problem solving and creating new things!
