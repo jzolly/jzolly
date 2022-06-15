@@ -9,22 +9,23 @@ Welcome to my GitHub. I see software engineering as a problem solving playground
 ### Self-Description
 
 
-###Self-Description
 Being a person who is perpetually curious 🔍, I genuinely enjoy living my life!  My core values are very community driven and I try to foster an atmosphere of acceptance and permissiveness wherever I go.  Creating this growth mindset space in my life for myself and those around me has lead to learn and explore a wide variety of topics and interest.  I am a musician 🎶, a cook 👩‍🍳, an outdoor enthusiast 🌳, an artist 🎨, a gamer (both video 🎮 and table top 🎲), an athlete 🥏, a lover of fantasy and sci-fi 📖, and an academic who loves knowledge 🧠.
 
-###Coding Proficiencies
--HTML
--CSS
--Javascrip
--Python
--React
+### Coding Proficiencies
 
-###My Current Projects
+- HTML
+- CSS
+- Javascrip
+- Python
+- React
+
+### My Current Projects  
+
 -My Legend of Zelda Based Korok Hunt is a fun project I'm developing to give users the opportunity to learn more about the monster, materials, equipment, treasure, and creatures that exist in the game Breath of the Wild.  This interactive seek and find prompts you to find the delightful koroks and earn a fact from each of them to further your own curiousity and understanding of the wonderful land of Hyrul
 -Landing page and web application system for local Chattanooga area businessman.
 -Reverse Tomagotchi (mobile application) more information coming soon. I can't share all my secrets
 
-###GitHub Stats
+### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzolly)](https://github.com/anuraghazra/github-readme-stats)
 <!---
