@@ -18,6 +18,12 @@ Being a person who is perpetually curious 🔍, I genuinely enjoy living my life
 - Javascrip
 - Python
 - React
+- Express
+- MongoDB
+- Mongoose
+- Python
+- Django
+- PostgreSQL
 
 ### My Current Projects  
 
